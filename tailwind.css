@@ -39,6 +39,11 @@
     padding-top: 110px;
   }
 
+  .max-container {
+    max-width: 1920px;
+    margin: 0 auto;
+  }
+
   /* Zee.Dog Typography */
   .heading-1 {
     @apply font-futura font-bold text-2xl lg:text-3xl tracking-tight;
